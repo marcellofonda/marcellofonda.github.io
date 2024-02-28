@@ -1,10 +1,10 @@
-## TLDR - Quick overview
+I asked myself: what if I stumbled upon a German WW2 encrypted message, but I didn't have an Enigma machine to dechiper it? So I built one myself. Actually, I wrote a program in Java to simulate it. And I generalized it, so anyone can make their own custom machine!
 
-Back in 2016, I wrote a program in Java to enchiper messages using the WW2 German Enigma system. Actually, I generalized it to arbitrary alphabets, number of wheels, etc.
+<!--more-->
 
-The result is [on my GitHub](github.com/marcellofonda/enigma)
+The code is [on my GitHub](github.com/marcellofonda/enigma)
 
-## What I learnt
+## What I learnt in a nutshell
 * How the Enigma machine works
 * The Java programming language
 * Basic `git` funcionality
