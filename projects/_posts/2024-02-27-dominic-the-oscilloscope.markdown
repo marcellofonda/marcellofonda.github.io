@@ -39,3 +39,5 @@ I bought all the components and, after some pain trying to fit everything in my 
 ![breadboard with baby Dominic](/assets/dominic/breadboard1.jpg)
 
 On this crowded breadboard you can distinguish a flipped version of the circuit in the drawing: on row 1 drown their feet `T1` and `Z1`; on row 2 there's `T2`... LEDs complete the circuit: I did figure something out in the end. This baby Dominic whose skyline is a promise of short-circuits was the first voltmeter I ever built. And the clumsiest I ever used, for that matter, but that's not the point of it: it worked!
+
+### Prepare for trouble, and make it double
